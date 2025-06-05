@@ -11,6 +11,8 @@ export default function Home() {
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center p-24">
         <h1 className="text-3xl font-bold">Welcome to the ALX Listing App</h1>
+        <Head className="text-3xl font-bold">Welcome to the ALX Listing App</Head>
+        <h3 className="text-3xl font-bold">Welcome to the ALX Listing App</h3>
       </main>
     </>
   )
